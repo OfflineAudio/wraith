@@ -1,4 +1,5 @@
 # Wraith
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/JakeChampion/wraith?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://secure.travis-ci.org/BBC-News/wraith.png?branch=master)](http://travis-ci.org/BBC-News/wraith)
 [![Code Climate](https://codeclimate.com/github/BBC-News/wraith.png)](https://codeclimate.com/github/BBC-News/wraith)
